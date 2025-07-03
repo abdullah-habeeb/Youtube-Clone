@@ -7,21 +7,22 @@ This is a responsive **YouTube.com homepage clone** built using **HTML5** and **
 
 - Fully responsive layout using **CSS Grid** and **media queries**
 - Fixed header and sidebar for persistent navigation
-- Interactive elements like:
+- - Interactive elements like:
   - Search and voice buttons with tooltips
   - Notification count badge
   - Video duration overlays
 - Clean and scalable code with modular CSS files
 
 ##  Project Structure
-youtube-clone/
+
+youtube-clone
 ─ index.html # Main HTML file (youtube.html)
-─ styles/
+─ styles
   ─ general.css # General typography and layout styles
   ─ header.css # Styles for top header and nav icons
   ─ sidebar.css # Sidebar styles (left panel)
   ─ video.css # Video grid layout and responsiveness
-─ icons/ # SVG and JPEG icon assets
-─ thumbnails/ # Video thumbnail images
-─ channel-pictures/ # Channel profile pictures
+─ icons # SVG and JPEG icon assets
+─ thumbnails # Video thumbnail images
+─ channel-pictures # Channel profile pictures
 ─ README.md # Project documentation
